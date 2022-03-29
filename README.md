@@ -1,10 +1,14 @@
 # Machine Learning Engineering for Production (MLOps) Specialization
 Repository for the [**Machine Learning Engineering for Production (MLOps) Specialization**](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) taught *by Andrew Ng* on [Coursera](https://www.coursera.org/)
 
-![image](https://user-images.githubusercontent.com/8168416/159134989-2c020a40-05d5-491f-8d77-b2d0198f9af6.png)
+![image](https://user-images.githubusercontent.com/8168416/160711484-31b450d9-d93c-4fb4-9f86-441a952d28e2.png)
 
 ## Contents
 The **Machine Learning Engineering for Production (MLOps) Specialization** covers how to conceptualize, build, and maintain integrated systems that continuously operate in production. In striking contrast with standard machine learning modeling, production systems need to handle relentless evolving data. Moreover, the production system must run non-stop at the minimum cost while producing the maximum performance. In this Specialization, you will learn how to use well-established tools and methodologies for doing all of this effectively and efficiently.
+
+<p align="center">
+<img width="400" height="450" src=https://user-images.githubusercontent.com/8168416/160711110-614c8847-fac8-46e8-a9d5-b26b495e7d36.png>
+</p>
 
 Main topics of this specialization:
 - Design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment requirements
