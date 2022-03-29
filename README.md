@@ -10,7 +10,7 @@ The **Machine Learning Engineering for Production (MLOps) Specialization** cover
 <img width="400" height="450" src=https://user-images.githubusercontent.com/8168416/160711110-614c8847-fac8-46e8-a9d5-b26b495e7d36.png>
 </p>
 
-Main topics of this specialization:
+**Main topics of this specialization**:
 - Design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment requirements
 - Establish a model baseline, address concept drift, and prototype how to develop, deploy, and continuously improve a productionized ML application
 - Build data pipelines by gathering, cleaning, and validating datasets
