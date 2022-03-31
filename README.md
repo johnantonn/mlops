@@ -1,4 +1,4 @@
-# Machine Learning Engineering for Production (MLOps) Specialization
+# Machine Learning Engineering for Production (MLOps)
 Repository for the [**Machine Learning Engineering for Production (MLOps) Specialization**](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) taught *by Andrew Ng* on [Coursera](https://www.coursera.org/)
 
 ![image](https://user-images.githubusercontent.com/8168416/160711484-31b450d9-d93c-4fb4-9f86-441a952d28e2.png)
