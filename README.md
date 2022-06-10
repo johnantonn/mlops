@@ -30,7 +30,7 @@ There are 4 Courses in this Specialization, summarized in the table below.
 | ------------- |:------------- |:-------------:|:-------------:|
 | 1  | [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops) | Completed | [:link:](https://www.coursera.org/account/accomplishments/certificate/RMLFKH4CJZM4) |
 | 2  | [Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production?specialization=machine-learning-engineering-for-production-mlops) | Completed | [🔗](https://www.coursera.org/account/accomplishments/certificate/JN6QE69NVB3S) |
-| 3  | [Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production?specialization=machine-learning-engineering-for-production-mlops) | In progress | |
+| 3  | [Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production?specialization=machine-learning-engineering-for-production-mlops) | Completed | [:link:](https://www.coursera.org/account/accomplishments/certificate/RAW3WGFASFYQ) |
 | 4  | [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production?specialization=machine-learning-engineering-for-production-mlops)  | TODO | |
 
 ## Note
